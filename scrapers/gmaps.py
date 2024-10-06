@@ -1,7 +1,7 @@
 import requests
 import polyline
 
-API_KEY = "AIzaSyAZKkMUM9NKJcotSy6WmuPNS1UN3QTkipM"
+API_KEY = ""
 
 def get_google_data(start, end):
     base_url = "https://maps.googleapis.com/maps/api/directions/json"
